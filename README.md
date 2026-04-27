@@ -35,3 +35,5 @@
 
 * **Email:** [tavaresrenzo@gmail.com](mailto:tavaresrenzo@gmail.com)
 * **LinkedIn:** [linkedin.com/in/renzotavares](https://linkedin.com/in/renzotavares)
+
+**This is my new github account, the old one @RenzoDTavares is discontinued**
